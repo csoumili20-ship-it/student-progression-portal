@@ -1,0 +1,22 @@
+profile_stats: {'source_rows': 33728, 'parsed_rows': 33728, 'repaired_rows': 1308, 'quarantined_rows': 0}
+outcomes_stats: {'source_rows': 356903, 'parsed_rows': 356903, 'repaired_rows': 45722, 'quarantined_rows': 0}
+fingerprints: {'profile': 'PROFILE', 'outcomes': 'OUTCOMES', 'certificate': 'CERTIFICATE', 'moodle': 'MOODLE'}
+profile_id_status: {'OK': 33726, 'EXCLUDED': 2}
+profile_colleges: {'AIBT': 33726}
+outcomes_id_status: {'OK': 356892, 'EXCLUDED': 11}
+outcomes_colleges: {'AIBT': 356892}
+certificate_id_status: {'OK': 64553, 'UNASSIGNED': 1}
+certificate_colleges: {'AIBT': 64553}
+profile_students: 20896
+profile_enrolment_dup_groups: 38
+profile_exact: 3
+profile_conflicts: 35
+outcomes_unit_dup_groups: 120
+outcomes_exact: 94
+outcomes_conflicts: 26
+moodle_rows: 141036
+moodle_unlinked_rows: 167
+moodle_real_students: 6011
+moodle_not_in_profile: 467
+moodle_min_total_assessments: 1
+profile_invalid_target_dates: 4
